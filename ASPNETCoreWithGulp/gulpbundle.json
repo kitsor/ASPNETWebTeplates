@@ -25,7 +25,7 @@
 			"minimized": true
 		},
 		{
-			"inputFileName": "bower_components/popper.js/dist/popper.min.js",
+			"inputFileName": "bower_components/popper.js/dist/umd/popper.min.js",
 			"minimized": true
 		},
 		{

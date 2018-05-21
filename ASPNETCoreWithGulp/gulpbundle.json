@@ -1,0 +1,40 @@
+﻿{
+	"path": {
+		"inputSASS": "./Assets/Application/sass/",
+		"inputJS": "./Assets/Application/js/",
+		"library": "./Assets/Library/",
+		"outputCSS": "./wwwroot/css/",
+		"outputJS": "./wwwroot/js/",
+		"outputLib": "./wwwroot/lib/"
+	},
+	"js": [
+		{
+			"outputFileName": "wwwroot/js/app.js",
+			"inputFiles": [
+				"app.js"
+			]
+		}
+	],
+	"lib": [
+		{
+			"inputFileName": "bower_components/jquery/dist/jquery.min.js",
+			"minimized": true
+		},
+		{
+			"inputFileName": "bower_components/jquery-validation/dist/jquery.validate.min.js",
+			"minimized": true
+		},
+		{
+			"inputFileName": "bower_components/popper.js/dist/popper.min.js",
+			"minimized": true
+		},
+		{
+			"inputFileName": "bower_components/bootstrap/dist/css/bootstrap.min.css",
+			"minimized": true
+		},
+		{
+			"inputFileName": "bower_components/bootstrap/dist/js/bootstrap.min.js",
+			"minimized": true
+		}
+	]
+}

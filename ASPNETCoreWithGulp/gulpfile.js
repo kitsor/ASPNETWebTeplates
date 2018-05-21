@@ -2,7 +2,6 @@
 
 var gulp = require("gulp"),
 	concat = require("gulp-concat"),
-	cssmin = require("gulp-cssmin"),
 	uglify = require("gulp-uglify"),
 	merge = require("merge-stream"),
 	gulpif = require('gulp-if'),
